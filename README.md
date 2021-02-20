@@ -3,8 +3,7 @@ Generative Adverserial Network (GAN) based machine learning model for removing r
 
 
 # Required Modules
-Python 3
-Tensorflow 2.0
+Python 3, Tensorflow 2.0
 
 
 # Getting Started
